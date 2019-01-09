@@ -1,0 +1,11 @@
+{
+    "env": "reece_stage",
+    "baseUrl": "https://stage.reece.com.au/",
+    "admin_tool_url": "https://trs-online-admin-stg.reecenet.org/",
+    "admin_tool_username": "dev",
+    "admin_tool_password": "c3uPad",
+    "external_punch_out": "https://stage.reece.com.au/payment/account/A6C279DAF672C2DDA3FDE0995E3D8762EF4CB186AE11885B",
+    "internal_punch_out": "https://stage.reece.com.au/payment/account/admin/A6C279DAF672C2DDA3FDE0995E3D8762EF4CB186AE11885B",
+    "product_info_url": "http://reecestgausys.reece.com.au/",
+    "password": "Stgpwd1000"
+}

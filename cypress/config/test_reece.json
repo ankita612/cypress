@@ -1,0 +1,11 @@
+{
+  "env": "reece_test",
+  "baseUrl": "https://test.reece.com.au/",
+  "admin_tool_url": "https://trs-online-admin-dev.reecenet.org/",
+  "admin_tool_username": "dev",
+  "admin_tool_password": "c3uPad",
+  "external_punch_out": "https://test.reece.com.au/payment/account/A6C279DAF672C2DDA3FDE0995E3D8762EF4CB186AE11885B",
+  "internal_punch_out": "https://test.reece.com.au/payment/account/admin/A6C279DAF672C2DDA3FDE0995E3D8762EF4CB186AE11885B",
+  "product_info_url": "http://reecetstausys.reece.com.au/",
+  "password": "Tstpwd1000"
+}
